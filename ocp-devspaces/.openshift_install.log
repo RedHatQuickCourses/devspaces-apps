@@ -1,0 +1,3 @@
+time="2024-10-17T07:46:25+02:00" level=debug msg="OpenShift Installer 4.16.11"
+time="2024-10-17T07:46:25+02:00" level=debug msg="Built from commit d570c0561c0763f95b3eee6f80c7a84653db818a"
+time="2024-10-17T07:46:25+02:00" level=fatal msg="Failed while preparing to destroy cluster: open ocp-devspaces/metadata.json: no such file or directory"

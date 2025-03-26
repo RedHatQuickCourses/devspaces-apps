@@ -10,7 +10,7 @@ spec:
   project: default
   source:
     path: gitops-config/devspaces
-    repoURL: https://github.com/RedHatQuickCourses/devspaces-apps.git
+    repoURL: https://github.com/lmt-cbs/devspaces-apps.git
     targetRevision: main
   syncPolicy:
     automated:
